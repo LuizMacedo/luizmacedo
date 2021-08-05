@@ -1,9 +1,9 @@
 ### Hi there! Luiz Macedo here! 👋
 <div align="left">
     <a href="https://github.com/luizmacedo">
-        <img height="180em"
+        <img height="170em"
             src="https://github-readme-stats.vercel.app/api?username=luizmacedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-        <img height="180em"
+        <img height="170em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmacedo&layout=compact&show_icons=true&langs_count=8&theme=dracula" />
 
         

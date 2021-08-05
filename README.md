@@ -1,5 +1,5 @@
 ### Hi there! Luiz Macedo here! 👋 ![](https://komarev.com/ghpvc/?username=luizmacedo&color=blueviolet&style=flat)
-<div>
+<div width="100%">
     <a href="https://github.com/luizmacedo">
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api?username=luizmacedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />

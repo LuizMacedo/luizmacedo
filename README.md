@@ -1,7 +1,8 @@
-### Hi there! Luiz Macedo here! 👋 ![](https://komarev.com/ghpvc/?username=luizmacedo&color=blueviolet&style=flat)
+### Hi there! Luiz Macedo here! 👋 ![](https://komarev.com/ghpvc/?username=luizmacedo&color=blueviolet&style=flat)   
 <div>
-    <a href="https://github.com/luizmacedo">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizmacedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmacedo&layout=compact&show_icons=true&langs_count=8&theme=dracula" />
+  <a href="https://github.com/luizmacedo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizmacedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmacedo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>

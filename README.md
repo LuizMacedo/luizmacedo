@@ -4,7 +4,7 @@
 
 **Senior Product Manager at Microsoft** | Cloud, Security & AI
 
-I've been in tech since I was 15 — from writing VB6 and Delphi, to managing infrastructure, to building DevOps cultures across organizations. I joined Microsoft Brazil as a Premier Field Engineer, moved to Texas in 2018 as a DevOps Support Engineer, and today I work on Cloud, Security & AI products. Along the way, I've contributed to Microsoft Learn and owned the [AZ-2008](https://github.com/MicrosoftLearning/AZ-2008_DevOps_Foundations_Core_Principles_Practices) and [AZ-400](https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions) certification content.
+Nearly 20 years in tech. Started at 15 writing VB6 and Delphi, moved through infrastructure, development, and DevOps across multiple organizations. Joined Microsoft Brazil as a Premier Field Engineer, relocated to Texas in 2018 as a DevOps Support Engineer, and today I work on Cloud, Security & AI products. Along the way, I've contributed to Microsoft Learn and owned the [AZ-2008](https://github.com/MicrosoftLearning/AZ-2008_DevOps_Foundations_Core_Principles_Practices) and [AZ-400](https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions) certification content.
 
 I write about DevOps, Cloud, Platform Engineering, and career growth on my [blog](https://luizmacedo.dev/).
 
@@ -12,7 +12,7 @@ I write about DevOps, Cloud, Platform Engineering, and career growth on my [blog
 
 ### 🛠 Tech Stack
 
-<div>
+<p>
   <img alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -25,7 +25,7 @@ I write about DevOps, Cloud, Platform Engineering, and career growth on my [blog
   <img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img alt="GitHub Actions" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg">
   <img alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div>
+</p>
 
 ---
 

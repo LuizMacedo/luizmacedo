@@ -1,8 +1,9 @@
 ### Hi there! Luiz Macedo here! 👋 ![](https://komarev.com/ghpvc/?username=luizmacedo&color=blueviolet&style=flat)   
 <div>
   <a href="https://github.com/luizmacedo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizmacedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmacedo&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizmacedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmacedo&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
@@ -25,21 +26,20 @@
 
 <div>
     <a href="https://www.linkedin.com/in/luizfmacedo/" target="_blank"><img
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            target="_blank"></a>
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://twitter.com/OLuizMacedo" target="_blank"><img
-            src="https://img.shields.io/badge/-Twitter-%9146FF?style=for-the-badge&logo=twitter&logoColor=white"
-            target="_blank"></a>
+            src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
     <a href="mailto:luizmacedo@outlook.com"><img
-            src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft&logoColor=white"
-            target="_blank"></a>
+            src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft&logoColor=white"></a>
     <a href="https://www.instagram.com/oluizmacedo" target="_blank"><img
-            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            target="_blank"></a>
+            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://luizmacedo.dev/" target="_blank"><img
-            src="https://img.shields.io/badge/Blog-%231877F2.svg?&style=for-the-badge&logo=&logoColor=white"
-            target="_blank"></a>
+            src="https://img.shields.io/badge/Blog-%231877F2.svg?&style=for-the-badge&logo=&logoColor=white"></a>
 
-![Snake animation](https://github.com/LuizMacedo/luizmacedo/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuizMacedo/luizmacedo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuizMacedo/luizmacedo/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/LuizMacedo/luizmacedo/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>

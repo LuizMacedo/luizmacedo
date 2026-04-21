@@ -12,20 +12,7 @@ I write about DevOps, Cloud, Platform Engineering, and career growth on my [blog
 
 ### 🛠 Tech Stack
 
-<p>
-  <img alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="PowerShell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg">
-  <img alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
-  <img alt="Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
-  <img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img alt="GitHub Actions" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg">
-  <img alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</p>
+<img alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> <img alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img alt="PowerShell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg"> <img alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> <img alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg"> <img alt="Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"> <img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <img alt="GitHub Actions" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg"> <img alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
 ---
 
@@ -43,6 +30,7 @@ I write about DevOps, Cloud, Platform Engineering, and career growth on my [blog
 ### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Azure DevOps Agent Latest Version](https://luizmacedo.dev/en/posts/azure-devops-agent-latest-version/)
 - [Azure DevOps Service Tag NSG Rule](https://luizmacedo.dev/en/posts/azure-devops-service-tag-nsg-rule/)
 - [5 Years at Microsoft, My Lucky Story!](https://luizmacedo.dev/en/posts/five-years-at-microsoft-my-luck-history/)

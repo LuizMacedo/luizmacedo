@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=luizmacedo&color=blueviolet&style=flat)
 
-**Senior Product Manager at Microsoft** | Cloud, Security & AI
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Senior+Product+Manager+at+Microsoft;Cloud%2C+Security+%26+AI;Nearly+20+years+in+tech;DevOps+%7C+Platform+Engineering+%7C+Cloud)](https://git.io/typing-svg)
 
 Nearly 20 years in tech. Started at 15 writing VB6 and Delphi, moved through infrastructure, development, and DevOps across multiple organizations. Joined Microsoft Brazil as a Premier Field Engineer, relocated to Texas in 2018 as a DevOps Support Engineer, and today I work on Cloud, Security & AI products. Along the way, I've contributed to Microsoft Learn and owned the [AZ-2008](https://github.com/MicrosoftLearning/AZ-2008_DevOps_Foundations_Core_Principles_Practices) and [AZ-400](https://github.com/MicrosoftLearning/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions) certification content.
 
